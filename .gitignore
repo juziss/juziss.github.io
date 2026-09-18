@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# local build artifacts (kept on disk, not published)
+support.js
+doc-page.js
+.thumbnail
+Publicar no GitHub.dc.html
+publish/
+uploads/
+assets/cert-coped.pdf
